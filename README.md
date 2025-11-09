@@ -1,11 +1,11 @@
-# 🔍 Recon Kali
+# ⚔️ SCYTHE-RECON
 
 A swift, all-in-one reconnaissance script for a quick and colorful overview of any domain.
 It wraps up WHOIS, DNS, web fingerprinting, and more into a single, fast execution. Designed for clarity and efficiency.
 
 ## 🧩 Overview
 
-Recon Kali is your first step in any security assessment or OSINT investigation. It quickly gathers essential public information about a domain and presents it in a clean, color-coded terminal view. No complex setup, just one script to get a solid initial footprint, with a handy JSON report saved for later.
+SCYTHE-RECON is your first step in any security assessment or OSINT investigation. It quickly gathers essential public information about a domain and presents it in a clean, color-coded terminal view. No complex setup, just one script to get a solid initial footprint, with a handy JSON report saved for later.
 
 ## 🚀 Features
 
@@ -23,8 +23,8 @@ Recon Kali is your first step in any security assessment or OSINT investigation.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/recon-kali.git
-    cd recon-kali
+    git clone https://github.com/your-username/scythe-recon.git
+    cd scythe-recon
     ```
 
 2.  **Create a virtual environment (recommended):**
@@ -35,8 +35,7 @@ Recon Kali is your first step in any security assessment or OSINT investigation.
 
 3.  **Install dependencies:**
     ```sh
-    pip install -r requirements.txt 
-    # Or manually: pip install python-whois dnspython requests beautifulsoup4 colorama
+    pip install python-whois dnspython requests beautifulsoup4 colorama
     ```
 
 ## 🎯 How to Run
@@ -44,7 +43,7 @@ Recon Kali is your first step in any security assessment or OSINT investigation.
 Just execute the script. It will prompt you for the domain to analyze.
 
 ```sh
-python3 recon_kali.py
+python3 scythe-recon.py
 ```
 
 ➡️ **Input:** `Enter domain (example.com): example.com`
@@ -57,14 +56,17 @@ This tool is for educational purposes and authorized security testing only. Don'
 
 
 
-# 🔍 Recon Kali
+
+
+
+# ⚔️ SCYTHE-RECON 
 
 Uno script di ricognizione rapido e all-in-one per una panoramica immediata e colorata di qualsiasi dominio.
 Unisce WHOIS, DNS, fingerprinting web e altro in un'unica, veloce esecuzione. Progettato per essere chiaro ed efficiente.
 
 ## 🧩 Panoramica
 
-Recon Kali è il tuo primo passo in qualsiasi valutazione di sicurezza o indagine OSINT. Raccoglie rapidamente le informazioni pubbliche essenziali su un dominio e le presenta in una vista pulita e colorata sul terminale. Nessuna configurazione complessa, solo uno script per ottenere un solido footprint iniziale, con un comodo report JSON salvato per dopo.
+SCYTHE-RECON è il tuo primo passo in qualsiasi valutazione di sicurezza o indagine OSINT. Raccoglie rapidamente le informazioni pubbliche essenziali su un dominio e le presenta in una vista pulita e colorata sul terminale. Nessuna configurazione complessa, solo uno script per ottenere un solido footprint iniziale, con un comodo report JSON salvato per dopo.
 
 ## 🚀 Funzionalità
 
@@ -82,8 +84,8 @@ Recon Kali è il tuo primo passo in qualsiasi valutazione di sicurezza o indagin
 
 1.  **Clona la repository:**
     ```sh
-    git clone https://github.com/tuo-utente/recon-kali.git
-    cd recon-kali
+    git clone https://github.com/tuo-utente/scythe-recon.git
+    cd scythe-recon
     ```
 
 2.  **Crea un ambiente virtuale (consigliato):**
@@ -94,8 +96,7 @@ Recon Kali è il tuo primo passo in qualsiasi valutazione di sicurezza o indagin
 
 3.  **Installa le dipendenze:**
     ```sh
-    pip install -r requirements.txt 
-    # Oppure manualmente: pip install python-whois dnspython requests beautifulsoup4 colorama
+    pip install python-whois dnspython requests beautifulsoup4 colorama
     ```
 
 ## 🎯 Come si Usa
@@ -103,7 +104,7 @@ Recon Kali è il tuo primo passo in qualsiasi valutazione di sicurezza o indagin
 Esegui semplicemente lo script. Ti chiederà di inserire il dominio da analizzare.
 
 ```sh
-python3 recon_kali.py
+python3 scythe-recon.py
 ```
 
 ➡️ **Input:** `Enter domain (example.com): example.com`
