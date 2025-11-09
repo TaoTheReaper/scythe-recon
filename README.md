@@ -13,7 +13,8 @@ Single-file Python tool that runs a recon pipeline and prints a colorized termin
 ---
 
 ### Quick install (Linux / macOS)
-```bash
+
+
 git clone https://github.com/<your-user>/scythe-recon.git
 cd scythe-recon
 python3 -m venv .venv
@@ -22,6 +23,7 @@ pip install -r requirements.txt
 Usage (one-shot / direct)
 # interactive:
 python3 scythe-recon.py
+
 
 # direct mode (one-shot):
 python3 scythe-recon.py -d example.com -o report_example.json -t
