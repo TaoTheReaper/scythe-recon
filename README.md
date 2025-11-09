@@ -23,7 +23,7 @@ SCYTHE-RECON is your first step in any security assessment or OSINT investigatio
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/scythe-recon.git
+    git clone https://github.com/taothereaper/scythe-recon.git
     cd scythe-recon
     ```
 
@@ -84,7 +84,7 @@ SCYTHE-RECON è il tuo primo passo in qualsiasi valutazione di sicurezza o indag
 
 1.  **Clona la repository:**
     ```sh
-    git clone https://github.com/tuo-utente/scythe-recon.git
+    git clone https://github.com/taothereaper/scythe-recon.git
     cd scythe-recon
     ```
 
